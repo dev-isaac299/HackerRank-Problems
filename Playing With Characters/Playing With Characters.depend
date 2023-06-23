@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684482817 source:c:\users\isaac\desktop\code blocks\playing with characters\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

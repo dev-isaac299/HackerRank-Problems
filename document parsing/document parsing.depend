@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684933614 source:c:\users\isaac\desktop\code blocks\document parsing\main.c
+	<stdio.h>
+	<stdlib.h>
+

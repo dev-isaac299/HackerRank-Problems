@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1684142370 source:c:\users\isaac\desktop\code blocks\bitwise operators\bitwise operators\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	"main.h"
+
+1684138332 c:\users\isaac\desktop\code blocks\bitwise operators\bitwise operators\main.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685439942 source:c:\users\isaac\desktop\code blocks\post transition\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

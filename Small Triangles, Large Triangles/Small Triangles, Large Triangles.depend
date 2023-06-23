@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684304187 source:c:\users\isaac\desktop\code blocks\small triangles, large triangles\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

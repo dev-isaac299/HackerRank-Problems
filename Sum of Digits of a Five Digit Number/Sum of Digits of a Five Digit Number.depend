@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684496275 source:c:\users\isaac\desktop\code blocks\sum of digits of a five digit number\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

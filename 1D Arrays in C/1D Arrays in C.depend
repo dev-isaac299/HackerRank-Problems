@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684497506 source:c:\users\isaac\desktop\code blocks\1d arrays in c\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

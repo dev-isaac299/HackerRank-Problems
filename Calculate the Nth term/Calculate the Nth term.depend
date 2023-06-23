@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684221449 source:c:\users\isaac\desktop\code blocks\calculate the nth term\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

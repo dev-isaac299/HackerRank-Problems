@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1684499431 source:c:\users\isaac\desktop\code blocks\printing tokens\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+
